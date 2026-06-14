@@ -1,11 +1,5 @@
-______ _____  ___ ______  ___  ___ _____         _           
-| ___ \  ___|/ _ \|  _  \ |  \/  ||  ___|       | |          
-| |_/ / |__ / /_\ \ | | | | .  . || |__    _ __ | |___       
-|    /|  __||  _  | | | | | |\/| ||  __|  | '_ \| / __|      
-| |\ \| |___| | | | |/ /  | |  | || |___  | |_) | \__ \_ _ _ 
-\_| \_\____/\_| |_/___/   \_|  |_/\____/  | .__/|_|___(_|_|_)
-                                          | |                
-                                          |_|                
+README
+                      
 O  jogo foi feito utilizando o RPG MAKER
 O RPG Maker é uma ferramenta de desenvolvimento de jogos focada na criação de RPGs 2D de forma acessível e intuitiva. Ele permite que pessoas criem jogos sem precisar construir um motor do zero, utilizando um sistema visual de mapas, eventos e comandos pré-configurados.
 
